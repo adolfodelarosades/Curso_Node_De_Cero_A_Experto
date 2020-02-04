@@ -1,330 +1,181 @@
-# Curso_Node_De_Cero_A_Experto
+# Node: De Cero A Experto
 
 ## Contenido del curso 230 clases 19:57:07
 
-## Introducción
-14:20
-Introducción
-Vista previa
-00:49
-¿Cómo funciona el curso?
-02:48
-Instalaciones necesarias
-07:19
-¿Cómo hacer preguntas? 
-03:24
-–
-Fundamentos de Node
-30:55
-Introducción a la sección
-01:24
-Temas puntuales de la sección
-00:11
-Preguntas comunes sobre Node
-Vista previa
-03:33
-Blocking vs Non Blocking I/O 
-06:18
-Hola Mundo en Node
-05:20
-Ciclo de eventos de Node - Ejemplos
-05:06
-Ciclo de vida de un proceso en Node 
-09:03
-–
-Reforzamiento de los temas necesarios para seguir el curso
-01:29:21
-Introducción a la sección
-01:27
-Temas puntuales de la sección 
-00:11
-Nodemon 
-05:51
-Let vs Var 
-07:37
-Templates literales
-04:21
-Destructuración de objetos 
-04:51
-Funciones de Flecha
-08:19
-Callbacks
-08:01
-Problemas comunes con los callbacks
-13:50
-Promesas 
-11:24
-Promesas en cadena 
-03:22
-Async - Await 
-Vista previa
-09:44
-Resolver problema de empleados/salarios con Async-Await 
-Vista previa
-10:15
-Código fuente de la sección 
-00:08
-–
-Bases de node
-01:23:12
-Introducción a la sección 
-01:52
-Temas puntuales de la sección
-00:06
-Inicio del proyecto - Sección 4
-02:29
-Requerir paquetes - required 
-08:32
-Importar archivos de nuestro proyecto
-11:29
-Recibir información desde línea de comando 
-08:57
-npm init - install - uninstall - package.json 
-09:47
-Yargs 
-Vista previa
-10:04
-Ejecutar el comando: listar 
-09:43
-Optimizaciones para la configuración del Yargs
-04:49
-Colores de la consola 
-05:12
-Respaldo del proyecto con GIT y GitHub 
-09:59
-Código fuente de la sección 
-00:13
-–
-Aplicación de tareas por hacer
-52:37
-Introducción a la sección 
-01:10
-Temas puntuales de la sección 
-00:08
-Inicio del proyecto - Por Hacer 
-05:40
-Validaciones automáticas con Yargs
-07:32
-Crear una tarea persistente 
-07:55
-Leer información de un archivo JSON 
-05:54
-Comando para listar todas las tareas por hacer 
-Vista previa
-04:14
-Actualizar una tarea por hacer 
-06:29
-Borrar tareas por hacer 
-05:45
-Optimizaciones para la aplicación de Notas 
-02:19
-Subir cambios a GitHub y tarea adicional 
-05:21
-Código fuente de la sección 
-00:09
-–
-Aplicación del Clima - GeoLocation + Open Weather
-46:38
-Introducción a la sección 
-01:36
-Temas puntuales de la sección
-00:09
-Inicio del proyecto - Aplicación del Clima del Mundo 
-03:41
-Lectura - City-Geo-Location 
-00:16
-City-Geo-Location 
-02:23
-Peticiones HTTP - Axios - Request 
-Vista previa
-09:27
-Optimizando el código para obtener la dirección y coordenadas 
-08:21
-Open Weather Map 
-10:41
-Conectando ambos servicios
-04:55
-Subir a GitHub - Aplicación del Clima 
-04:54
-Código fuente de la sección
-00:15
-–
-Webserver - HTTP - EXPRESS - HBS
-01:16:21
-Introducción a la sección 
-01:37
-Temas puntuales de la sección 
-00:06
-Inicio de proyecto - WebServer 
-08:25
-Introducción a EXPRESS
-07:50
-Servir contenido estático
-04:37
-Crear una pequeña página web 
-10:20
-Handlebars 
-07:38
-Usando parciales con HBS 
-13:18
-Usando helpers
-07:46
-Heroku - Subiendo nuestra aplicación a producción 
-10:21
-Subir a GitHub los cambios - Webserver - Express- Heroku - HBS 
-04:18
-Código fuente de la sección 
-00:05
-–
-REST Server - Configuraciones iniciales
-50:57
-Introducción a la sección 
-02:03
-Temas puntuales de la sección 
-00:08
-Nota de actualización 
-00:11
-Instalación de MongoDB 
-05:31
-Robo 3T - Herramienta para manejar Mongo
-03:44
-Iniciando el proyecto - RESTServer 
-04:43
-Peticiones HTTP - GET - PUT - POST - DELETE
-Vista previa
-09:47
-Códigos de respuestas HTTP 
-00:10
-Usando códigos de respuesta HTTP en Express 
-03:14
-Creando un archivo de configuración global 
-03:44
-Respaldo del RESTServer a GitHub 
-05:32
-Subir el RESTServer a Heroku 
-07:08
-Pro Tip: Ambiente de producción y desarrollo en Postman
-04:50
-Código fuente de la sección 
-00:11
-–
-Alcances del RESTServer y mantenimiento de la colección de usuarios
-02:15:08
-Introducción a la sección 
-03:07
-Temas puntuales de la sección
-00:15
-Alcances del proyecto - RESTServer 
-02:16
-Mongoose - Conectarnos a la base de datos 
-07:07
-Ordenar las rutas de Usuario 
-04:21
-Modelo de Usuario 
-07:17
-POST: Creando un usuario en la colección 
-09:18
-Validaciones personalizadas - email y role
-08:16
-Nota de actualización - Bcrypt 
-00:14
-Bcrypt - Encriptando la contraseña
-07:42
-PUT: Actualizar información del usuario
-08:04
-Validaciones adicionales en el PUT 
-09:09
-GET: Obtener todos los usuarios de forma paginada 
-09:38
-Retornar número total de registros en una colección 
-02:41
-Filtrando los campos de los resultados de un get 
-01:35
-Delete: Borrando un usuario de la base de datos 
-06:45
-Delete: Marcar una eliminación en el mismo registro
-05:37
-mLab: Un servicio de MongoDB en la nube 
-04:01
-MongoDB Atlas - Cloud Database - Configurar base de datos en la nube 
-06:13
-MongoDB Compass - UI para el manejo de MongoDB 
-04:55
-Actualizar todos los paquetes de mi aplicación de Node 
-04:49
-Conectar mLab o Mongo Atlas con nuestra aplicación de Node 
-06:36
-Nota de actualización 
-00:21
-Desplegando nuestro RESTServer en Heroku - Usuario 
-05:36
-Subir los cambios a GitHub - Usuario y RESTServer
-03:03
-Variables de entorno personalizadas Heroku 
-05:56
-Código fuente de la sección 
-00:15
-–
-Autenticación de usuario - JWT
-01:23:16
-Introducción a la sección
-01:45
-Temas puntuales de la sección 
-00:09
-Introducción a los Tokens 
-06:16
-Código para leer el payload y fecha de expiración de un Token - NO USAR 
-00:14
-Información importante sobre los JWT 
-Vista previa
-09:04
-Ordenando las rutas en nuestro servidor 
-07:01
-Login de usuario 
-09:02
-Generar un JWT
-10:22
-Proteger rutas mediante uso de Token - Middlewares 
-12:21
-Obtener información del Payload en cualquier servicio
-06:15
-Middleware: Verificar Rol de administrador
-07:46
-Pro Tip: Variables de entorno automáticas - Postman 
-06:58
-Desplegar en Heroku y backups en GitHub - Sección 10 
-05:49
-Código fuente de la sección 10 
-00:13
-–
-Google Sign In - Front y BackEnd
-49:44
-Introducción a la sección
-01:17
-Temas puntuales de la sección
-00:11
-Link para comenzar nuestra integración de Google Sign-In 
-00:09
-Obtención del API Key y API Secret de Google 
-11:49
-Validar Token de Google - Backend
-11:06
-Crear un usuario personalizado en base a las credenciales de Google 
-Vista previa
-13:06
-Probar Google Sign-In desde Postman 
-03:43
-Pro Tip: Generar la documentación automática de nuestros servicios
-03:54
-Publicar a Heroku y GitHub - Y pruebas en producción
-04:19
-Código fuente de la sección
-00:09
-–
-Categorías y Productos
-01:08:50
-Introducción a la sección
-00:55
+### Introducción 14:20
+
+* Introducción 00:49
+* ¿Cómo funciona el curso? 02:48
+* Instalaciones necesarias 07:19
+* ¿Cómo hacer preguntas?  03:24
+
+### Fundamentos de Node 30:55
+
+* Introducción a la sección 01:24
+* Temas puntuales de la sección 00:11
+* Preguntas comunes sobre Node 03:33
+* Blocking vs Non Blocking I/O 06:18
+* Hola Mundo en Node 05:20
+* Ciclo de eventos de Node - Ejemplos 05:06
+* Ciclo de vida de un proceso en Node 09:03
+
+### Reforzamiento de los temas necesarios para seguir el curso 01:29:21
+
+* Introducción a la sección 01:27
+* Temas puntuales de la sección 00:11
+* Nodemon 05:51
+* Let vs Var 07:37
+* Templates literales 04:21
+* Destructuración de objetos 04:51
+* Funciones de Flecha 08:19
+* Callbacks 08:01
+* Problemas comunes con los callbacks 13:50
+* Promesas 11:24
+* Promesas en cadena 03:22
+* Async - Await 09:44
+* Resolver problema de empleados/salarios con Async-Await 10:15
+* Código fuente de la sección 00:08
+
+### Bases de node 01:23:12
+
+* Introducción a la sección 01:52
+* Temas puntuales de la sección 00:06
+* Inicio del proyecto - Sección 4 02:29
+* Requerir paquetes - required 08:32
+* Importar archivos de nuestro proyecto 11:29
+* Recibir información desde línea de comando 08:57
+* npm init - install - uninstall - package.json 09:47
+* Yargs 10:04
+* Ejecutar el comando: listar 09:43
+* Optimizaciones para la configuración del Yargs 04:49
+* Colores de la consola 05:12
+* Respaldo del proyecto con GIT y GitHub 09:59
+* Código fuente de la sección 00:13
+
+### Aplicación de tareas por hacer 52:37
+
+* Introducción a la sección 01:10
+* Temas puntuales de la sección 00:08
+* Inicio del proyecto - Por Hacer 05:40
+* Validaciones automáticas con Yargs 07:32
+* Crear una tarea persistente 07:55
+* Leer información de un archivo JSON 05:54
+* Comando para listar todas las tareas por hacer 04:14
+* Actualizar una tarea por hacer 06:29
+* Borrar tareas por hacer 05:45
+* Optimizaciones para la aplicación de Notas 02:19
+* Subir cambios a GitHub y tarea adicional 05:21
+* Código fuente de la sección 00:09
+
+### Aplicación del Clima - GeoLocation + Open Weather 46:38
+
+* Introducción a la sección 01:36
+* Temas puntuales de la sección 00:09
+* Inicio del proyecto - Aplicación del Clima del Mundo 03:41
+* Lectura - City-Geo-Location 00:16
+* City-Geo-Location 02:23
+* Peticiones HTTP - Axios - Request 09:27
+* Optimizando el código para obtener la dirección y coordenadas 08:21
+* Open Weather Map 10:41
+* Conectando ambos servicios 04:55
+* Subir a GitHub - Aplicación del Clima 04:54
+* Código fuente de la sección 00:15
+
+### Webserver - HTTP - EXPRESS - HBS 01:16:21
+
+* Introducción a la sección 01:37
+* Temas puntuales de la sección 00:06
+* Inicio de proyecto - WebServer 08:25
+* Introducción a EXPRESS 07:50
+* Servir contenido estático 04:37
+* Crear una pequeña página web 10:20
+* Handlebars 07:38
+* Usando parciales con HBS 13:18
+* Usando helpers 07:46
+* Heroku - Subiendo nuestra aplicación a producción 10:21
+* Subir a GitHub los cambios - Webserver - Express- Heroku - HBS 04:18
+* Código fuente de la sección 00:05
+
+### REST Server - Configuraciones iniciales 50:57
+
+* Introducción a la sección 02:03
+* Temas puntuales de la sección 00:08
+* Nota de actualización 00:11
+* Instalación de MongoDB 05:31
+* Robo 3T - Herramienta para manejar Mongo 03:44
+* Iniciando el proyecto - RESTServer 04:43
+* Peticiones HTTP - GET - PUT - POST - DELETE 09:47
+* Códigos de respuestas HTTP 00:10
+* Usando códigos de respuesta HTTP en Express 03:14
+* Creando un archivo de configuración global 03:44
+* Respaldo del RESTServer a GitHub 05:32
+* Subir el RESTServer a Heroku 07:08
+* Pro Tip: Ambiente de producción y desarrollo en Postman 04:50
+* Código fuente de la sección 00:11
+
+### Alcances del RESTServer y mantenimiento de la colección de usuarios 02:15:08
+
+* Introducción a la sección 03:07
+* Temas puntuales de la sección 00:15
+* Alcances del proyecto - RESTServer 02:16
+* Mongoose - Conectarnos a la base de datos 07:07
+* Ordenar las rutas de Usuario 04:21
+* Modelo de Usuario 07:17
+* POST: Creando un usuario en la colección 09:18
+* Validaciones personalizadas - email y role 08:16
+* Nota de actualización - Bcrypt 00:14
+* Bcrypt - Encriptando la contraseña 07:42
+* PUT: Actualizar información del usuario 08:04
+* Validaciones adicionales en el PUT 09:09
+* GET: Obtener todos los usuarios de forma paginada 09:38
+* Retornar número total de registros en una colección 02:41
+* Filtrando los campos de los resultados de un get 01:35
+* Delete: Borrando un usuario de la base de datos 06:45
+* Delete: Marcar una eliminación en el mismo registro 05:37
+* mLab: Un servicio de MongoDB en la nube 04:01
+* MongoDB Atlas - Cloud Database - Configurar base de datos en la nube 06:13
+* MongoDB Compass - UI para el manejo de MongoDB 04:55
+* Actualizar todos los paquetes de mi aplicación de Node 04:49
+* Conectar mLab o Mongo Atlas con nuestra aplicación de Node 06:36
+* Nota de actualización 00:21
+* Desplegando nuestro RESTServer en Heroku - Usuario 05:36
+* Subir los cambios a GitHub - Usuario y RESTServer 03:03
+* Variables de entorno personalizadas Heroku 05:56
+* Código fuente de la sección 00:15
+
+### Autenticación de usuario - JWT 01:23:16
+
+* Introducción a la sección 01:45
+* Temas puntuales de la sección 00:09
+* Introducción a los Tokens 06:16
+* Código para leer el payload y fecha de expiración de un Token - NO USAR 00:14
+* Información importante sobre los JWT 09:04
+* Ordenando las rutas en nuestro servidor 07:01
+* Login de usuario 09:02
+* Generar un JWT 0:22
+* Proteger rutas mediante uso de Token - Middlewares 12:21
+* Obtener información del Payload en cualquier servicio 06:15
+* Middleware: Verificar Rol de administrador 07:46
+* Pro Tip: Variables de entorno automáticas - Postman 06:58
+* Desplegar en Heroku y backups en GitHub - Sección 10 05:49
+* Código fuente de la sección 10 00:13
+
+### Google Sign In - Front y BackEnd 49:44
+
+* Introducción a la sección 01:17
+* Temas puntuales de la sección 00:11
+* Link para comenzar nuestra integración de Google Sign-In 00:09
+* Obtención del API Key y API Secret de Google 11:49
+* Validar Token de Google - Backend 11:06
+* Crear un usuario personalizado en base a las credenciales de Google Vista previa 13:06
+* Probar Google Sign-In desde Postman 03:43
+* Pro Tip: Generar la documentación automática de nuestros servicios 03:54
+* Publicar a Heroku y GitHub - Y pruebas en producción 04:19
+* Código fuente de la sección 00:09
+
+### Categorías y Productos 01:08:50
+
+* Introducción a la sección 00:55
 Temas puntuales de la sección 
 00:04
 CRUD y rutas de Categorías 

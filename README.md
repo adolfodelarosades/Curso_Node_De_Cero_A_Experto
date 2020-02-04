@@ -2,14 +2,14 @@
 
 ## Contenido del curso 230 clases 19:57:07
 
-### Introducción 14:20
+### 1. Introducción 14:20
 
 * Introducción 00:49
 * ¿Cómo funciona el curso? 02:48
 * Instalaciones necesarias 07:19
 * ¿Cómo hacer preguntas?  03:24
 
-### Fundamentos de Node 30:55
+### 2. Fundamentos de Node 30:55
 
 * Introducción a la sección 01:24
 * Temas puntuales de la sección 00:11
@@ -19,7 +19,7 @@
 * Ciclo de eventos de Node - Ejemplos 05:06
 * Ciclo de vida de un proceso en Node 09:03
 
-### Reforzamiento de los temas necesarios para seguir el curso 01:29:21
+### 3. Reforzamiento de los temas necesarios para seguir el curso 01:29:21
 
 * Introducción a la sección 01:27
 * Temas puntuales de la sección 00:11
@@ -36,7 +36,7 @@
 * Resolver problema de empleados/salarios con Async-Await 10:15
 * Código fuente de la sección 00:08
 
-### Bases de node 01:23:12
+### 4. Bases de node 01:23:12
 
 * Introducción a la sección 01:52
 * Temas puntuales de la sección 00:06
@@ -52,7 +52,7 @@
 * Respaldo del proyecto con GIT y GitHub 09:59
 * Código fuente de la sección 00:13
 
-### Aplicación de tareas por hacer 52:37
+### 5. Aplicación de tareas por hacer 52:37
 
 * Introducción a la sección 01:10
 * Temas puntuales de la sección 00:08
@@ -67,7 +67,7 @@
 * Subir cambios a GitHub y tarea adicional 05:21
 * Código fuente de la sección 00:09
 
-### Aplicación del Clima - GeoLocation + Open Weather 46:38
+### 6. Aplicación del Clima - GeoLocation + Open Weather 46:38
 
 * Introducción a la sección 01:36
 * Temas puntuales de la sección 00:09
@@ -81,7 +81,7 @@
 * Subir a GitHub - Aplicación del Clima 04:54
 * Código fuente de la sección 00:15
 
-### Webserver - HTTP - EXPRESS - HBS 01:16:21
+### 7. Webserver - HTTP - EXPRESS - HBS 01:16:21
 
 * Introducción a la sección 01:37
 * Temas puntuales de la sección 00:06
@@ -96,7 +96,7 @@
 * Subir a GitHub los cambios - Webserver - Express- Heroku - HBS 04:18
 * Código fuente de la sección 00:05
 
-### REST Server - Configuraciones iniciales 50:57
+### 8. REST Server - Configuraciones iniciales 50:57
 
 * Introducción a la sección 02:03
 * Temas puntuales de la sección 00:08
@@ -113,7 +113,7 @@
 * Pro Tip: Ambiente de producción y desarrollo en Postman 04:50
 * Código fuente de la sección 00:11
 
-### Alcances del RESTServer y mantenimiento de la colección de usuarios 02:15:08
+### 9. Alcances del RESTServer y mantenimiento de la colección de usuarios 02:15:08
 
 * Introducción a la sección 03:07
 * Temas puntuales de la sección 00:15
@@ -143,7 +143,7 @@
 * Variables de entorno personalizadas Heroku 05:56
 * Código fuente de la sección 00:15
 
-### Autenticación de usuario - JWT 01:23:16
+### 10. Autenticación de usuario - JWT 01:23:16
 
 * Introducción a la sección 01:45
 * Temas puntuales de la sección 00:09
@@ -160,7 +160,7 @@
 * Desplegar en Heroku y backups en GitHub - Sección 10 05:49
 * Código fuente de la sección 10 00:13
 
-### Google Sign In - Front y BackEnd 49:44
+### 11. Google Sign In - Front y BackEnd 49:44
 
 * Introducción a la sección 01:17
 * Temas puntuales de la sección 00:11
@@ -173,7 +173,7 @@
 * Publicar a Heroku y GitHub - Y pruebas en producción 04:19
 * Código fuente de la sección 00:09
 
-### Categorías y Productos 01:08:50
+### 12. Categorías y Productos 01:08:50
 
 * Introducción a la sección 00:55
 * Temas puntuales de la sección 00:04
@@ -189,7 +189,7 @@
 * Desplegar en Heroku y backups en GitHub - Sección 12 04:45
 * Código fuente de la sección 00:08
 
-### Carga de Archivos y protección de los mismos 01:19:28
+### 13. Carga de Archivos y protección de los mismos 01:19:28
 
 * Introducción a la sección 01:23
 * Temas puntuales de la sección 00:10
@@ -206,7 +206,7 @@
 * Desplegar en Heroku y backups en GitHub - Sección 13 05:00
 * Código fuente de las sección 00:13
 
-### Sockets - Fundamentos de los sockets 58:27
+### 14. Sockets - Fundamentos de los sockets 58:27
 
 * Introducción a la sección 01:33
 * Temas puntuales de la sección 00:11
@@ -225,7 +225,7 @@
 * Subir a GitHub - Sockets Fundamentos 02:08
 * Código fuente de la sección 00:07
 
-### Sockets - Aplicación de Cola 01:31:22
+### 15. Sockets - Aplicación de Cola 01:31:22
 
 * Introducción a la sección 02:17
 * Temas puntuales de la sección 00:07
@@ -243,7 +243,7 @@
 * Subir a GitHub - Aplicación de colas 02:25
 * Código fuente de la sección 00:08
 
-### Socket Chat 01:51:21
+### 16. Socket Chat 01:51:21
 
 * Introducción a la sección 02:01
 * Temas puntuales de la sección 00:11
@@ -265,7 +265,7 @@
 * Subir cambios a GitHub - SocketChat 02:11
 * Código fuente de la sección 00:07
 
-### Bonus - Node + MySQL + TypeScript 01:12:11
+### 17. Bonus - Node + MySQL + TypeScript 01:12:11
 
 * Temas puntuales de la sección 00:22
 * Instalación necesaria 00:44
@@ -281,7 +281,7 @@
 * Ejecutar queries en las rutas 12:58
 * Más información sobre TypeScript 00:21
 
-### Despedida del curso 03:30
+### 18. Despedida del curso 03:30
 
 * Más sobre mis cursos 00:33
 * Cierre del curso 02:57

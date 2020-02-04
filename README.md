@@ -176,209 +176,112 @@
 ### Categorías y Productos 01:08:50
 
 * Introducción a la sección 00:55
-Temas puntuales de la sección 
-00:04
-CRUD y rutas de Categorías 
-05:59
-Resolución de la tarea - CRUD y Rutas de Categorías 
-10:15
-Resolución de la tarea - CRUD y Rutas de Categorías - Parte 2
-09:20
-Populate - Cargar información de otras tablas
-04:08
-Modelo de Productos
-00:06
-CRUD y Rutas Productos - Tarea 
-05:44
-Resolución de la tarea - CRUD y Rutas de Productos
-10:23
-Resolución de la tarea - CRUD y Rutas de Productos - Parte 2
-10:52
-Realizar búsquedas en base de datos
-06:10
-Desplegar en Heroku y backups en GitHub - Sección 12
-04:45
-Código fuente de la sección 
-00:08
-–
-Carga de Archivos y protección de los mismos
-01:19:28
-Introducción a la sección
-01:23
-Temas puntuales de la sección
-00:10
-Nota: sobre el fileupload-express 
-00:22
-Subir archivos a Express
-Vista previa
-11:54
-Validar la extensión del archivo a subir
-06:54
-Ubicar y Renombrar archivos 
-08:31
-Actualizar imagen de usuario 
-07:17
-Borrar archivos del servidor 
-10:01
-Cargar imagen de productos - tarea
-06:23
-Servicio para mostrar las imágenes 
-08:36
-Mostrar imagen de usuario o producto 
-06:45
-Middleware: Verificar token por url 
-05:58
-Desplegar en Heroku y backups en GitHub - Sección 13 
-05:00
-Código fuente de las sección
-00:13
-–
-Sockets - Fundamentos de los sockets
-58:27
-Introducción a la sección
-01:33
-Temas puntuales de la sección 
-00:11
-¿Qué son los sockets y para qué nos pueden servir? 
-04:26
-Material de la sección 
-00:10
-Inicio del proyecto - Fundamentos sobre sockets
-04:39
-Instalación de socket.io
-05:38
-Configuración de socket.io - Front-End
-05:27
-Detectar desconexiones de usuario o desconexiones del servidor 
-03:08
-Emitir desde el cliente - Escuchar en el servidor
-07:07
-Emitir desde el servidor - Escuchar en el cliente
-Vista previa
-04:39
-Retroalimentación de emisiones del cliente hacia el servidor
-04:11
-Ordenar el código del cliente y del servidor en archivos independientes
-03:56
-Broadcast - Emitir a todos los usuarios
-05:13
-Sockets a Heroku 
-05:53
-Subir a GitHub - Sockets Fundamentos 
-02:08
-Código fuente de la sección
-00:07
-–
-Sockets - Aplicación de Cola
-01:31:22
-Introducción a la sección 
-02:17
-Temas puntuales de la sección 
-00:07
-Inicio de proyecto - Aplicación de Cola
-05:09
-ES6 Classes - Clase para centralizar la lógica
-11:07
-Lógica: Siguiente ticket y centralizar la grabación 
-03:17
-Socket: Siguiente Ticket 
-12:02
-Socket: Estado actual de la cola
-05:03
-Colección de Tickets pendientes de atender 
-05:34
-Lógica: Atender un ticket
-07:51
-Socket: Atender un Ticket
-13:42
-Mostrar cola de tickets en pantalla 
-09:47
-Conectar la asignación de Tickets con la pantalla de cola
-08:16
-Probar aplicación de Tickets en Heroku 
-Vista previa
-04:36
-Subir a GitHub - Aplicación de colas 
-02:25
-Código fuente de la sección
-00:08
-–
-Socket Chat
-01:51:21
-Introducción a la sección
-02:01
-Temas puntuales de la sección 
-00:11
-Inicio del proyecto - Socket Chat
-02:46
-Clase para controlar los usuarios del chat 
-10:32
-Front-End: Conectar un usuario
-11:11
-Desconectar usuarios
-08:07
-Enviando un mensaje a todo el grupo 
-08:04
-Enviar un mensaje a un usuario en específico 
-06:13
-Salas de Chat 
-07:58
-Mensajes y notificaciones a las salas de chat 
-08:31
-Respaldo a GitHub de nuestra aplicación de Chat 
-02:17
-Diseño de nuestra sala de chat 
-04:00
-Renderizar usuarios
-09:54
-Obtener el ID del usuario conectado
-03:00
-Enviar y renderizar mensajes
-12:39
-Mejorar la forma de renderizar mensajes 
-Vista previa
-10:32
-Propuestas para ejercicios del chat 
-01:07
-Subir cambios a GitHub - SocketChat 
-02:11
-Código fuente de la sección 
-00:07
-–
-Bonus - Node + MySQL + TypeScript
-01:12:11
-Temas puntuales de la sección 
-00:22
-Instalación necesaria
-00:44
-Inicio de proyecto - TypeScript-MySQL 
-09:34
-Referencia al express básico - hecho en el curso 
-00:10
-Configurando express en TypeScript 
-11:55
-Desplegar el public folder 
-Vista previa
-10:58
-Rutas de nuestra aplicación 
-Vista previa
-05:00
-Crear base de datos en MySQL 
-05:42
-Paquete para conectarse a MySQL desde Node 
-00:09
-Clase para conectarse a MySQL 
-10:34
-Implementar patrón singleton y prevenir múltiples instancias de la clase 
-03:42
-Ejecutar queries en las rutas 
-12:58
-Más información sobre TypeScript 
-00:21
-–
-Despedida del curso
-03:30
-Más sobre mis cursos 
-00:33
-Cierre del curso 
-02:57
+* Temas puntuales de la sección 00:04
+* CRUD y rutas de Categorías 05:59
+* Resolución de la tarea - CRUD y Rutas de Categorías 10:15
+* Resolución de la tarea - CRUD y Rutas de Categorías - Parte 2 09:20
+* Populate - Cargar información de otras tablas 04:08
+* Modelo de Productos 00:06
+* CRUD y Rutas Productos - Tarea 05:44
+* Resolución de la tarea - CRUD y Rutas de Productos 10:23
+* Resolución de la tarea - CRUD y Rutas de Productos - Parte 2 10:52
+* Realizar búsquedas en base de datos 06:10
+* Desplegar en Heroku y backups en GitHub - Sección 12 04:45
+* Código fuente de la sección 00:08
+
+### Carga de Archivos y protección de los mismos 01:19:28
+
+* Introducción a la sección 01:23
+* Temas puntuales de la sección 00:10
+* Nota: sobre el fileupload-express 00:22
+* Subir archivos a Express 11:54
+* Validar la extensión del archivo a subir 06:54
+* Ubicar y Renombrar archivos 08:31
+* Actualizar imagen de usuario 07:17
+* Borrar archivos del servidor 10:01
+* Cargar imagen de productos - tarea 06:23
+* Servicio para mostrar las imágenes 08:36
+* Mostrar imagen de usuario o producto 06:45
+* Middleware: Verificar token por url 05:58
+* Desplegar en Heroku y backups en GitHub - Sección 13 05:00
+* Código fuente de las sección 00:13
+
+### Sockets - Fundamentos de los sockets 58:27
+
+* Introducción a la sección 01:33
+* Temas puntuales de la sección 00:11
+* ¿Qué son los sockets y para qué nos pueden servir? 04:26
+* Material de la sección 00:10
+* Inicio del proyecto - Fundamentos sobre sockets 04:39
+* Instalación de socket.io 05:38
+* Configuración de socket.io - Front-End 05:27
+* Detectar desconexiones de usuario o desconexiones del servidor 03:08
+* Emitir desde el cliente - Escuchar en el servidor 07:07
+* Emitir desde el servidor - Escuchar en el cliente 04:39
+* Retroalimentación de emisiones del cliente hacia el servidor 04:11
+* Ordenar el código del cliente y del servidor en archivos independientes 03:56
+* Broadcast - Emitir a todos los usuarios 05:13
+* Sockets a Heroku 05:53
+* Subir a GitHub - Sockets Fundamentos 02:08
+* Código fuente de la sección 00:07
+
+### Sockets - Aplicación de Cola 01:31:22
+
+* Introducción a la sección 02:17
+* Temas puntuales de la sección 00:07
+* Inicio de proyecto - Aplicación de Cola 05:09
+* ES6 Classes - Clase para centralizar la lógica 11:07
+* Lógica: Siguiente ticket y centralizar la grabación 03:17
+* Socket: Siguiente Ticket 12:02
+* Socket: Estado actual de la cola 05:03
+* Colección de Tickets pendientes de atender 05:34
+* Lógica: Atender un ticket 07:51
+* Socket: Atender un Ticket 13:42
+* Mostrar cola de tickets en pantalla 09:47
+* Conectar la asignación de Tickets con la pantalla de cola 08:16
+* Probar aplicación de Tickets en Heroku 04:36
+* Subir a GitHub - Aplicación de colas 02:25
+* Código fuente de la sección 00:08
+
+### Socket Chat 01:51:21
+
+* Introducción a la sección 02:01
+* Temas puntuales de la sección 00:11
+* Inicio del proyecto - Socket Chat 02:46
+* Clase para controlar los usuarios del chat 10:32
+* Front-End: Conectar un usuario 11:11
+* Desconectar usuarios 08:07
+* Enviando un mensaje a todo el grupo 08:04
+* Enviar un mensaje a un usuario en específico 06:13
+* Salas de Chat 07:58
+* Mensajes y notificaciones a las salas de chat 08:31
+* Respaldo a GitHub de nuestra aplicación de Chat 02:17
+* Diseño de nuestra sala de chat 04:00
+* Renderizar usuarios 09:54
+* Obtener el ID del usuario conectado 03:00
+* Enviar y renderizar mensajes 12:39
+* Mejorar la forma de renderizar mensajes 10:32
+* Propuestas para ejercicios del chat 01:07
+* Subir cambios a GitHub - SocketChat 02:11
+* Código fuente de la sección 00:07
+
+### Bonus - Node + MySQL + TypeScript 01:12:11
+
+* Temas puntuales de la sección 00:22
+* Instalación necesaria 00:44
+* Inicio de proyecto - TypeScript-MySQL 09:34
+* Referencia al express básico - hecho en el curso 00:10
+* Configurando express en TypeScript 11:55
+* Desplegar el public folder 10:58
+* Rutas de nuestra aplicación 05:00
+* Crear base de datos en MySQL 05:42
+* Paquete para conectarse a MySQL desde Node 00:09
+* Clase para conectarse a MySQL 10:34
+* Implementar patrón singleton y prevenir múltiples instancias de la clase 03:42
+* Ejecutar queries en las rutas 12:58
+* Más información sobre TypeScript 00:21
+
+### Despedida del curso 03:30
+
+* Más sobre mis cursos 00:33
+* Cierre del curso 02:57
